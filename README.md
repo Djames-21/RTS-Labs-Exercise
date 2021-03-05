@@ -7,7 +7,7 @@ Ex: using the array [1,5,2,1,10] and integer 6 would be executed as: java ex1 1 
 
 
 Exercise 2:
-To run ex2 after compiling, from the command line run: java ex2 _'String to ratate'_
+To run ex2 after compiling, from the command line run: java ex2 _'String to rotate'_
 
 Ex: using String "MyString" would be executed as java ex2 MyString
 
