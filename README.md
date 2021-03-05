@@ -11,4 +11,4 @@ To run ex2 after compiling, from the command line run: java ex2 _'String to rata
 
 Ex: using String "MyString" would be executed as java ex2 MyString
 
-Exercise 3:
+Exercise 3: I would make the mathematical operations (sqrt, pow, random, etc.) standard functions in java.
